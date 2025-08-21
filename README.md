@@ -29,17 +29,17 @@ A arquitetura foi desenhada para ser **serverless e altamente disponível**, uti
 ## 📂 Estrutura do Repositório
 
 .
-├── RELATORIO_IMPLEMENTACAO_AWS.md # Relatório detalhado de implementação
-├── README.md # Este arquivo
+├── RELATORIO_IMPLEMENTACAO_AWS.md -- Relatório detalhado de implementação
+├── README.md --Este arquivo
 ├── assets/
-│ └── diagrama_arquitetura.png # Diagrama de arquitetura AWS
+│ └── diagrama_arquitetura.png -- Diagrama de arquitetura AWS
 ├── sql/
-│ └── schema_mysql.sql # Script SQL para inicializar banco RDS
+│ └── schema_mysql.sql -- Script SQL para inicializar banco RDS
 ├── lambda/
-│ ├── index.js # Função Lambda de exemplo
-│ └── package.json # Dependências da Lambda
+│ ├── index.js -- Função Lambda de exemplo
+│ └── package.json -- Dependências da Lambda
 ├── api/
-│ └── openapi.yaml # Especificação OpenAPI da API
+│ └── openapi.yaml -- Especificação OpenAPI da API
 └── .gitignore
 
 ---
