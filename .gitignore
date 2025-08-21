@@ -1,0 +1,9 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# Python/venv (caso use)
+.venv/
+
+# MacOS
+.DS_Store

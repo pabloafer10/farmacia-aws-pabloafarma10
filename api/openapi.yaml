@@ -1,0 +1,40 @@
+openapi: 3.0.3
+info:
+  title: API Farmácia Abstergo
+  version: 1.0.0
+servers:
+  - url: https://{id}.execute-api.{region}.amazonaws.com/prod
+    variables:
+      id:
+        default: your-api-id
+      region:
+        default: sa-east-1
+paths:
+  /health:
+    get:
+      summary: Healthcheck
+      responses:
+        '200':
+          description: OK
+          content:
+            text/plain:
+              schema:
+                type: string
+                example: ok
+  /products:
+    get:
+      summary: Lista produtos
+      responses:
+        '200':
+          description: Lista de produtos
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+                  properties:
+                    id: { type: integer }
+                    name: { type: string }
+                    price: { type: number, format: float }
+                    stock: { type: integer }
