@@ -51,7 +51,7 @@ A arquitetura foi desenhada para ser **serverless e altamente disponível**, uti
 
 ## 👨‍💻 Autor
 **Pablo Fernandes**  
-📧 [Seu Email]  
+📧 [pabloafer10@hotmail.com]  
 🔗 [LinkedIn](https://linkedin.com/in/pablo-fernandes-7b0445125?)  
 🐙 [GitHub](https://github.com/pabloafer10)
 
