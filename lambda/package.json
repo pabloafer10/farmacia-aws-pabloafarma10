@@ -1,8 +1,8 @@
 {
-  "name": "abstergo-farmacia-lambda",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "type": "module",
-  "dependencies": {}
+    "name": "pabloafarma10-farmacia-lambda",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "type": "module",
+    "dependencies": {}
 }

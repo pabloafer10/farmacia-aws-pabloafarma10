@@ -1,11 +1,11 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 21/08/2025  
-**Empresa:** Abstergo Industries (Farmácia Fictícia)  
+**Empresa:** Pabloafarma10 Industries (Farmácia Fictícia)  
 **Responsável:** Pablo Fernandes
 
 ## Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa **Abstergo Industries**, realizado por **Pablo Fernandes**.
+Este relatório apresenta o processo de implementação de ferramentas na empresa **Pabloafarma10 Industries**, realizado por **Pablo Fernandes**.
 O objetivo do projeto foi elencar **3 serviços AWS**, visando a criação de uma **plataforma virtual de farmácia** com **redução de custos, escalabilidade e alta disponibilidade**.
 
 ## Descrição do Projeto

@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  title: API Farmácia Abstergo
+  title: API Farmácia Pabloafarma10
   version: 1.0.0
 servers:
   - url: https://{id}.execute-api.{region}.amazonaws.com/prod
